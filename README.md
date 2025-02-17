@@ -1,5 +1,5 @@
-# Capstone-Project
-Bank Churn Prediction
+#Capstone-Project
+# Bank Churn Prediction
 
 ## Project Overview
 This project focuses on predicting customer churn in the banking sector using machine learning techniques. By analyzing customer demographics, transaction history, and credit utilization, the model identifies customers at risk of leaving. The insights from this project can help financial institutions implement targeted retention strategies.
